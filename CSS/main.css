@@ -3,15 +3,16 @@
 }
 
 body {
-  background-color: #F4D04E;
+  background-color: #f4d04e;
   min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: "Figtree", sans-serif;
 }
 
 main {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   width: 384px;
   padding: 24px;
   border: 1px solid black;
