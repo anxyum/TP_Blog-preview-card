@@ -23,6 +23,13 @@ img {
   width: 100%;
 }
 
+.category {
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 21px;
+  text-align: left;
+}
+
 .profile-picture {
   width: 32px;
   height: 32px;
