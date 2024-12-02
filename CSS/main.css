@@ -65,6 +65,10 @@ main {
   color: #111111;
 }
 
+.course-title:hover {
+  color: #f4d04e;
+}
+
 .course-description {
   font-family: Figtree;
   font-size: 16px;
